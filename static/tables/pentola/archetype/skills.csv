@@ -1,0 +1,14 @@
+dz, Archetype, Skills (Rating)
+prefix, They fit the mold of, with the following skills:
+1,a pangolin,"Sword and Buckler (56), Athletics (56), Bluster (40), Streetwise (26), Haggling (26), Swimming (26), Military Lore (26), Heraldry (26), Dodge (26), and Crafting (10)"
+2,a deadeye,"Archer (56), Athletics (56), Perception (40), Streetwise (26), Haggling (26), Fletching (26), Hunting (26), Stealth (26), Climbing (26) and Crafting (10)"
+3,a thief,"Stealth (56), Acrobatics (56), Streetwise (40), Pickpocket (26), Lockpicking (26), Legal Lore (26), Reconnaissance (26), Arbalist (26), Alchemy (26), and Crafting (10)"
+4,an alchemist,"Alchemy (56), Research (56), Barter (40), Crafting (36), Literacy [Pentolan] (26), Botany (26), Medicine (26), Anatomy (26), and Appraisal (26)"
+5,a theologist,"Persuasion (56), Religious Lore (56), Demonology (40), Crafting (36), Investigation (26), Literacy [Pentolan] (26), Servitor Lore (26), Legal Lore (26), and Rhetoric (26)"
+6,a Crafter,"Crafting (66), Literacy [Pentolan] (56), Researching (40), Alchemy (20), Servitor Lore (26), Demonology (26), Dodge (26), Old Ones Lore (26) and Appraisal (26)"
+7,a drakerider,"Sword and Buckler (56), Drakeriding (56), Archer (40), Rhetoric (26), Barter (26), Literacy [Pentolan] (26), Heraldry (26), Swimming (26), Wrestling (26), and Crafting (10)"
+8,a con artist,"Bluff (56), Streetwise (56), Deception (40), Legal Lore (26), Appraisal (26), Engineering (26), Haggling (26), Brawling (26), Persuasion (26), and Crafting (10)"
+9,an artisan,"Crafting (66), Sculpting (56), Barter (40), Research (26), Engineering (26), Alchemy (26), Persuasion (26), Appraisal (26), and Drawing (26); may swap sculpting and drawing for any two other artisanal skills"
+☀️️️️️,a captain,"Persuasion (56), Diplomacy (56), Politics (40), Legal Lore (26), Investigation (26), Sword and Buckler (26), Dodge (26), Appraisal (26), Etiquette (26), and Crafting (10)"
+🌑,an Echo chaser,"Demonology (56), Research (56), Crafting (50), Appraisal (26), Gambling (26), Spire Lore (26), Politics (26), Persuasion (26), and Barter (26)"
+0,a merchant,"Barter (56), Appraisal (56), Administration (40), Crafting (36), Alchemy (26), Persuasion (26), Etiquette (26), Spire Lore (26), and Politics (26)"

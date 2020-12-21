@@ -1,0 +1,146 @@
+img.icons {
+  margin: 0rem auto !important;
+  display: inline-flex !important;
+  width: 1em !important;
+  height: 1em !important; }
+
+nav.site-nav {
+  background-color: floralwhite; }
+
+table.rolltable {
+  width: 100%; }
+
+table.rolltable th {
+  text-align: center;
+  font-weight: bold;
+  background-color: #6F468F;
+  color: #fff; }
+
+table.rolltable th:hover, table.rolltable td:hover {
+  background-color: #A264D2; }
+
+table.rolltable td {
+  text-align: center;
+  border: 0; }
+
+table.rolltable td.selected {
+  background-color: #6F468F;
+  color: #fff;
+  font-weight: bold; }
+
+table.rolltable tr:nth-child(even) {
+  background-color: #C4ABD8; }
+
+table.rolltable caption button {
+  padding: 5px;
+  color: #A264D2;
+  float: left;
+  display: inline-block;
+  left: 10px; }
+
+table.rolltable caption p.table-caption {
+  background: #EEEEEE;
+  font-style: italic;
+  font-size: 0.75rem;
+  display: flow-root; }
+
+details.mechanical {
+  position: relative;
+  width: 100%;
+  background: #FFF2DB; }
+  details.mechanical summary {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 15px;
+    padding: 10px 10px; }
+  details.mechanical p {
+    padding: 10px;
+    display: block;
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666; }
+  details.mechanical summary {
+    background-color: #F0B37E; }
+
+details.warning {
+  position: relative;
+  width: 100%;
+  background: #FAE2E2; }
+  details.warning summary {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 15px;
+    padding: 10px 10px; }
+  details.warning p {
+    padding: 10px;
+    display: block;
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666; }
+  details.warning summary {
+    background-color: rgba(217, 83, 79, 0.8); }
+
+details.note {
+  position: relative;
+  width: 100%;
+  background: #E7F2FA; }
+  details.note summary {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 15px;
+    padding: 10px 10px; }
+  details.note p {
+    padding: 10px;
+    display: block;
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666; }
+  details.note summary {
+    background-color: #6AB0DE; }
+
+details.inworld {
+  position: relative;
+  width: 100%;
+  background: #E7F2FA; }
+  details.inworld summary {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 15px;
+    padding: 10px 10px; }
+  details.inworld p {
+    padding: 10px;
+    display: block;
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666; }
+  details.inworld summary {
+    background-color: #a76bbe; }
+
+details.example {
+  position: relative;
+  width: 100%;
+  background: #E6F9E6; }
+  details.example summary {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 15px;
+    padding: 10px 10px; }
+  details.example p {
+    padding: 10px;
+    display: block;
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666; }
+  details.example summary {
+    background-color: rgba(92, 184, 92, 0.8); }
+
+body {
+  font: 100% Helvetica, sans-serif; }
+
+nav.game-nav {
+  background-color: #f2f2f2; }

@@ -1,0 +1,25 @@
+baseURL: 'http://pentolan-coop.netlify.app/'
+languageCode: en-us
+title: Pentolan Cooperative
+# theme: Platen
+googleAnalytics: UA-123-45
+year: 2020
+copyrightHolder: The Pentolan Cooperative
+module:
+  # replacements: 'github.com/platenio/hugo-platen -> C:\code\platenio\hugo-platen'
+  imports:
+    - path: github.com/platenio/hugo-platen
+params:
+  description: City of Shards
+  copyright:   '2020, The Pentolan Coop'
+menu:
+  main:
+    - name: About
+      url: /about
+    - name: Blog
+      url: /blog
+    - name: Games
+      url: /games
+  footer:
+    - name: Contact
+      url: /contact

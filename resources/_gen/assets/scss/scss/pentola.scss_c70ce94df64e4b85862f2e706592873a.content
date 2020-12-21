@@ -1,0 +1,7 @@
+details.inworld {
+  background: aquamarine; }
+  details.inworld p {
+    color: black; }
+  details.inworld summary {
+    background-color: wheat;
+    color: black; }
