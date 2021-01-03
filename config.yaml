@@ -12,6 +12,34 @@ module:
 params:
   description: City of Shards
   copyright:   '2020, The Pentolan Coop'
+  scss:
+    # Default site variables
+    site:
+      font-stack:          'Arial, sans-serif'
+      primary-color:       '#6F468F'
+      primary-color-text:  '#FFF'
+      primary-color-light: '#C4ABD8'
+      primary-color-hover: '#A264D2'
+      # secondary-color:     'green'
+      # tertiary-color:      'orange'
+      # desktop-width:       '768px'
+      # site-nav-height:     '4em'
+    # Default Game variables (these can be overwritten per-game)
+    # games:
+      # font-stack: foo
+      # primary-color: '#6F468F'
+      # primary-color-text: '#FFF'
+      # primary-color-light: '#C4ABD8'
+      # primary-color-hover: '#A264D2'
+      # secondary-color:
+      # secondary-color-text:
+      # secondary-color-light:
+      # secondary-color-hover:
+      # tertiary-color:
+      # tertiary-color-text:
+      # tertiary-color-light:
+      # tertiary-color-hover:
+      # nav-height: 4em
 menu:
   main:
     - name: About
