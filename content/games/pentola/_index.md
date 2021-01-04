@@ -12,6 +12,21 @@ team:
 price: "$5"
 type: game
 navlist: ordered
+scss:
+  # font-stack: foo
+  primary-color: '#6F468F'
+  primary-color-text: '#FFF'
+  primary-color-light: '#C4ABD8'
+  primary-color-hover: '#A264D2'
+  # secondary-color:
+  # secondary-color-text:
+  # secondary-color-light:
+  # secondary-color-hover:
+  # tertiary-color:
+  # tertiary-color-text:
+  # tertiary-color-light:
+  # tertiary-color-hover:
+  # nav-height: 4em
 ---
 
 Pentola is a high fantasy game where you play citizens embroiled in intrigue and adventure in a bronze age megalopolis, and where your choices and beliefs shape reality.
