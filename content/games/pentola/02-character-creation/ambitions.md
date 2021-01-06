@@ -28,7 +28,7 @@ The ambitions below are provided as examples of the sort of thing that could tak
 Mark your character's long term ambition on your character sheet.
 A character may record up to two long term ambitions and one short term ambition on their character sheet at a time—you may pursue other ambitions, but these are the ones held most deeply in your character's psyche.
 
-{{< rolltable "pentola/ambitions" "Roll dz for a starting long-term ambition." >}}
+{{< rolltable "pentola/ambitions" "Roll dz for a starting long-term ambition." "singular" >}}
 
 ## Becoming an Ironbinder
 

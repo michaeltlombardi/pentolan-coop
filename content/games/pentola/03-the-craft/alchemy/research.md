@@ -23,7 +23,7 @@ Each dweomer researched requires making one or more experiments, each of which r
 
 If successful, compare your dz% result to this table:
 
-{{< rolltable "pentola/alchemy/research" >}}
+{{< rolltable "pentola/alchemy/research" "" "singular">}}
 
 ### Forms
 
@@ -42,4 +42,4 @@ If successful, compare your dz% result to this table:
 
 ### Alchemical Mishaps
 
-{{< rolltable "pentola/alchemy/mishaps" >}}
+{{< rolltable "pentola/alchemy/mishaps" "" "singular">}}

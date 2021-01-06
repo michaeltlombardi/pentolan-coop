@@ -12,6 +12,7 @@ module:
 params:
   description: City of Shards
   copyright:   '2020, The Pentolan Coop'
+  warnOnMissingAltText: false
   scss:
     # Default site variables
     site:

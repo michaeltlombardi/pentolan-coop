@@ -66,7 +66,7 @@ Roll on the table below to randomly determine your ally's vocation or select one
 
 <!-- TODO: Add how you met, why you're friends, and their personality or something -->
 
-{{< rolltable "pentola/relationships/ally" >}}
+{{< rolltable "pentola/relationships/ally" "" "singular" >}}
 
 ## Dependents
 
@@ -74,7 +74,7 @@ Roll on the table below to randomly determine who your dependent is to you or ch
 
 <!-- TODO: Add why they need you, what trouble they attract, and their personality or something -->
 
-{{< rolltable "pentola/relationships/dependent" >}}
+{{< rolltable "pentola/relationships/dependent" "" "singular" >}}
 
 ## Enemy
 
@@ -83,14 +83,14 @@ Note that an organization can also be your enemy, in which case see [Organizatio
 
 <!-- TODO: Add how you met, why you're enemies, and their personality or something -->
 
-{{< rolltable "pentola/relationships/enemy" >}}
+{{< rolltable "pentola/relationships/enemy" "" "singular" >}}
 
 ## Organization
 
 To randomly generate an organization, roll dz to determine the type of organization, then roll on the related table to determine details about it.
 Use those details as the skeleton of ideas to flesh out a group of people in the world—Pentola is enormous and varied, far too large and fractured to detail every organization you might encounter.
 
-{{< rolltable "pentola/relationships/organizational/type" >}}
+{{< rolltable "pentola/relationships/organizational/type" "" "singular" >}}
 
 ### Academic Organizations
 

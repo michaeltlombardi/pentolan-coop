@@ -69,7 +69,7 @@ She can also critically succeed on a 01.
 
 If you're unsure of what sort of character you'd like to play mechanically, you may choose to roll for an archetype on the table below or select one freely.
 
-{{< rolltable "pentola/archetype/skills" >}}
+{{< rolltable "pentola/archetype/skills" "" "singular" >}}
 
 {{< detail mechanical "Skills and Ambiguity" >}}
 Note that some of the skills overlap or seem a bit random—it is intended that you pick skills that you want your character to specialize in, then use those specializations to solve problems.
