@@ -41,4 +41,4 @@ It's particularly useful to have NPCs in the world recognize the characters by r
 Whenever characters do anything particularly notable it's a good idea to grant them a new reputation to account for it.
 {{< /detail >}}
 
-{{< rolltable "pentola/reputations" >}}
+{{< rolltable "pentola/reputations" "" "singular">}}

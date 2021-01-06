@@ -31,7 +31,7 @@ Each dweomer researched requires making one or more experiments, each of which r
 
 After each successful experiment, roll a dz:
 
-{{< rolltable "pentola/dweomers/research" >}}
+{{< rolltable "pentola/dweomers/research" "" "singular" >}}
 
 {{< detail example "Researching a Dweomer" >}}
 Taryn wants to learn how to apply a dweomer they saw referenced once in the biography of a mage - the effect was described as "filling the room with thunder and shaking the very stones apart with voice alone."

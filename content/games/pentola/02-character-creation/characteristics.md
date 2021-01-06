@@ -32,20 +32,7 @@ Your characteristics determine your base chance of success at any given test, bu
 
 You determine your starting characteristics by rolling **one dz**, which gives you your starting characteristic array.
 
-| Result | Starting Characteristics |
-|:------:|:------------------------:|
-| 1      | {{< icon iron >}} 20 {{< icon flax >}} 30 {{< icon bone >}} 40
-| 2      | {{< icon iron >}} 40 {{< icon flax >}} 20 {{< icon bone >}} 30
-| 3      | {{< icon iron >}} 30 {{< icon flax >}} 40 {{< icon bone >}} 20
-| 4      | {{< icon iron >}} 23 {{< icon flax >}} 33 {{< icon bone >}} 43
-| 5      | {{< icon iron >}} 43 {{< icon flax >}} 23 {{< icon bone >}} 33
-| 6      | {{< icon iron >}} 33 {{< icon flax >}} 43 {{< icon bone >}} 23
-| 7      | {{< icon iron >}} 26 {{< icon flax >}} 36 {{< icon bone >}} 46
-| 8      | {{< icon iron >}} 46 {{< icon flax >}} 26 {{< icon bone >}} 36
-| 9      | {{< icon iron >}} 36 {{< icon flax >}} 46 {{< icon bone >}} 26
-| ☀️️️️️️️     | {{< icon iron >}} 29 {{< icon flax >}} 39 {{< icon bone >}} 49
-| 🌑     | {{< icon iron >}} 49 {{< icon flax >}} 29 {{< icon bone >}} 39
-| 0      | {{< icon iron >}} 39 {{< icon flax >}} 49 {{< icon bone >}} 29
+{{< rolltable "pentola/starting-characteristics" "" "singular" >}}
 
 A **36** in a characteristic is the average for a person--higher scores are above average--and a **90** is the absolute upper bound of anyone not affected by special abilities or conditions.
 
@@ -59,12 +46,15 @@ Pentola leans somewhat more into the underdog upstart tropes as written.
 To give players a more heroic start you could increase their distribution above by a dozen, giving a spread of 30-59 instead of 20-49.
 {{< /detail >}}
 
-{{< detail example "Determining Characteristics for Taryn Carozza" >}}
+{{< detail type=example title="Determining Characteristics for Taryn Carozza" >}}
 To determine Taryn's characteristics, we roll a dz and get a ☀️️️️️️️:
 
-{{< icon iron 1.5em 1.5em >}} <strong>29</strong> <br />
-{{< icon flax 1.5em 1.5em >}} <strong>39</strong> <br />
-{{< icon bone 1.5em 1.5em >}} <strong>49</strong>
+<!-- - {{< icon iron >}} **29**
+- {{< icon flax >}} **39**
+- {{< icon bone >}} **49** -->
+- **Iron:** 29
+- **Flax:** 39
+- **Bone:** 49
 
 At the beginning of play Taryn has a bit less personal power than most people, has an average education and knowledge-base, and is stronger, tougher, and more agile than most people.
 {{< /detail >}}

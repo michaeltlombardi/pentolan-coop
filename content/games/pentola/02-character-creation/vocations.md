@@ -29,4 +29,4 @@ You can do entirely away with skills and just rely on vocations, but be aware th
 
 You can write your own vocation, roll to determine your vocation based on the table below, or choose a vocation that you think fits your character.
 
-{{< rolltable "pentola/vocations" >}}
+{{< rolltable "pentola/vocations" "" "singular" >}}

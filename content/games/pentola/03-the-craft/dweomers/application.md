@@ -88,7 +88,7 @@ Botching the test causes the crafter to lose {{< icon blood >}} equal to the com
 This damage cannot be reduced by armor or other items, but a crafter can divert some of this damage by permanently reducing their {{< icon tephra >}} total by one for each point of {{< icon blood >}} they choose not to lose.
 The {{< icon tephra >}} can be sourced from a charm, but it can never be refilled again if used in this way.
 
-{{< rolltable "pentola/dweomers/misapplication" >}}
+{{< rolltable "pentola/dweomers/misapplication" "Roll on this table anytime you misapply a dweomer." "singular" >}}
 
 {{< detail mechanical "Dangerous Magic" >}}
 Magic in Pentola is a dangerous proposition, especially under pressure.

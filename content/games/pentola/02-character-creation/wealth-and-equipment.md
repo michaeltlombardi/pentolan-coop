@@ -124,7 +124,7 @@ Each item has some text in parentheses after it:
 - and the rest either relates to the item's ratings or specific qualities, all of which are explained in more detail in the [appendices](/appendices/equipment) but not needed for character creation.
 {{< /detail >}}
 
-{{< rolltable "pentola/archetype/equipment" >}}
+{{< rolltable "pentola/archetype/equipment" "" "singular" >}}
 
 {{< detail example "Determining Wealth and Buying Equipment for Taryn" >}}
 Taryn starts with an average wealth, meaning they have a resource deck consisting of two suits with a ranking of comprehensive.
