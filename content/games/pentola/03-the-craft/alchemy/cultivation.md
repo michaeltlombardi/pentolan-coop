@@ -1,5 +1,6 @@
 ---
 title: Alchemical Cultivation
+description: The means by which Pentolans nurture and bring forth new and unique plants and creatures
 type: chapter
 weight: 50
 ---

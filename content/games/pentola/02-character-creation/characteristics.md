@@ -1,5 +1,6 @@
 ---
 title: Determining Characteristics
+description: The scores that relate basic information about a character's abilities and competence
 type: chapter
 weight: 10
 ---

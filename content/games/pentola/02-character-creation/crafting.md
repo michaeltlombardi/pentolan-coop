@@ -1,5 +1,6 @@
 ---
 title: Starting Dweomers & the Craft
+description: An introduction to the most common magic system used by Pentolans
 type: chapter
 weight: 110
 ---

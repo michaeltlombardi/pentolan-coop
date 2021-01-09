@@ -1,5 +1,7 @@
 ---
-title: "Weapons & Shields"
+title: Weapons & Shields
+description: Gear for violence, mundane and otherwise
+type: chapter
 weight: 20
 ---
 

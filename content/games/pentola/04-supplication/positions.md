@@ -1,5 +1,6 @@
 ---
 title: Factional Positions
+description: Types of supplicants, their benefits and duties
 type: chapter
 weight: 20
 ---

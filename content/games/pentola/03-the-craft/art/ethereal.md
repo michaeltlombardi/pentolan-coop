@@ -1,5 +1,6 @@
 ---
 title: Ethereal Opuses
+description: The non-physical arts which are themselves a form of magic
 type: chapter
 weight: 30
 ---

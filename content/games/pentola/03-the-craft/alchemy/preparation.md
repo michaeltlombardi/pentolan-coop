@@ -1,5 +1,6 @@
 ---
 title: Preparing Formulae
+description: The means by which Pentolans turn a handful of ingredients into potent magical items
 type: chapter
 weight: 20
 ---

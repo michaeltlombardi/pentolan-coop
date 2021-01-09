@@ -1,5 +1,6 @@
 ---
 title: Wealth and Equipment
+description: The basic items a character starts with and an overview of their place in the economy
 type: chapter
 weight: 100
 ---

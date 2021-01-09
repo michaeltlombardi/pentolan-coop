@@ -1,6 +1,7 @@
 ---
-title: "Quick Reference"
-type: quickref
+title: Quick Reference
+description: Shortform reference information useful in play
+type: chapter
 ---
 
 ## Testing

@@ -1,5 +1,7 @@
 ---
 title: "Magic Items"
+description: A slew of magical items to discover in play
+type: chapter
 weight: 40
 ---
 

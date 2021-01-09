@@ -1,5 +1,6 @@
 ---
 title: Determining Distinctions
+description: The little things that paint a broader picture of a character
 type: chapter
 weight: 30
 ---

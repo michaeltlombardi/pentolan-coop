@@ -1,5 +1,7 @@
 ---
 title: "Knacks"
+description: Special abilities a character might possess which relate to who they are as a person
+type: chapter
 weight: 20
 ---
 

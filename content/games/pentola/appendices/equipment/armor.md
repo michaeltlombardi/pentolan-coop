@@ -1,5 +1,7 @@
 ---
-title: "Armor"
+title: Armor
+description: Protective gear, mundane and otherwise
+type: chapter
 weight: 20
 ---
 

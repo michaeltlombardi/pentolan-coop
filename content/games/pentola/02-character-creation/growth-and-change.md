@@ -1,5 +1,6 @@
 ---
 title: Character Growth & Change
+description: How characters change in the course of play
 type: chapter
 weight: 120
 ---

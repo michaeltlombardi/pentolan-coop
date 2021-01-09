@@ -1,5 +1,7 @@
 ---
-title: "Miscellaneous Items"
+title: Miscellaneous Items
+description: A table of items that don't fit any other list
+type: chapter
 weight: 30
 ---
 

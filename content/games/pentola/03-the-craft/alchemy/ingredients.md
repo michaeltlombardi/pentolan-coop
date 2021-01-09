@@ -1,5 +1,6 @@
 ---
 title: Qualities & Ingredients
+description: Alchemical ingredients and how they are mechanically described
 type: chapter
 weight: 40
 ---

@@ -1,5 +1,6 @@
 ---
 title: Basics
+description: An overview of the Pentolan view on magic and the terms they use to talk about it
 type: chapter
 weight: 10
 ---

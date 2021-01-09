@@ -1,5 +1,6 @@
 ---
 title: Combat
+description: Special rules for the breakdown in conflict that leads to violence
 type: chapter
 weight: 10
 ---

@@ -1,5 +1,6 @@
 ---
 title: Skills
+description: The areas a character has focused on mastering
 type: chapter
 weight: 60
 ---

@@ -1,5 +1,6 @@
 ---
 title: Art
+description: A look at the intersection between art and magic in Pentola, where they're often the same thing
 type: chapter
 weight: 40
 ---
@@ -9,6 +10,12 @@ weight: 40
 > Of the three approaches to the Craft, the arts are the most flexible and personal.
 > If you look hard enough, you might also find them to be the most ubiquitous.
 
-- [Overview](overview)
-- [Physical Art](physical)
-- [Ethereal Art](ethereal)
+When crafters apply dweomers through their art---physical (sculptures, paintings, architecture, etc) and ethereal (songs, poems, dances, etc.)---they are actualizing an opus which acts as a separately applied dweomer.
+If the opus can be experienced without the artist actively participating, it is _physical_; otherwise it is _ethereal_.
+
+When devising and actualizing opuses, artisans use their specific art rating instead of Crafting for both their tests and determining maximum complexity.
+Note that this means an artisan may be able to create more complex opuses with one type of art than another.
+
+Except as noted, actualizing opuses follows the same rules and steps as ritually applying dweomers.
+
+As with dweomers, though the basic effects of a dweomer are relatively fixed, they can be manipulated each time you actualize the opus---almost no work of art is ever really _exactly_ the same.

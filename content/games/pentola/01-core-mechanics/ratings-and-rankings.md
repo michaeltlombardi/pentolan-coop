@@ -1,5 +1,6 @@
 ---
 title: Ratings and Rankings
+description: Shorthand for how powerful a particular bonus is
 type: chapter
 weight: 20
 ---

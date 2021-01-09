@@ -1,5 +1,6 @@
 ---
 title: Learning Dweomers
+description: The means by which a character discovers and memorizes a new dweomer
 type: chapter
 weight: 30
 ---

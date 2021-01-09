@@ -1,5 +1,6 @@
 ---
 title: Knacks
+description: The fundamental effect of magic on Pentolans which changes their bodies and grants them esoteric powers
 type: chapter
 weight: 90
 ---
