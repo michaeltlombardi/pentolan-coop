@@ -9,6 +9,7 @@ module:
   # replacements: 'github.com/platenio/hugo-platen -> C:\code\platenio\hugo-platen'
   imports:
     - path: github.com/platenio/hugo-platen
+paginatePath: blog
 params:
   description: City of Shards
   copyright:   '2020, The Pentolan Coop'
