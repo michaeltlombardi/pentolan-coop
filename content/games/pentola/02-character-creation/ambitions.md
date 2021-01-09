@@ -1,5 +1,6 @@
 ---
 title: Choosing Ambitions
+description: Goals that change characters as they fulfill them
 type: chapter
 weight: 40
 ---

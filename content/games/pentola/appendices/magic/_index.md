@@ -1,9 +1,8 @@
-+++
-title = "Magic"
-weight = 20
-chapter = true
-+++
+---
+title: Magic
+description: Lists of magical effects and abilities
+type: chapter
+weight: 20
+---
 
-# Magic
-
-- [Knacks](knacks)
+<!-- Left intentionally blank -->

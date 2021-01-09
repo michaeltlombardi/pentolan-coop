@@ -1,5 +1,6 @@
 ---
 title: Physical Opuses
+description: The physical arts which are instances of magic wrought by artisans into the world
 type: chapter
 weight: 20
 ---

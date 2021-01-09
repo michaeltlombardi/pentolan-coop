@@ -1,5 +1,6 @@
 ---
 title: Reputations
+description: What other Pentolans believe about a character
 type: chapter
 weight: 80
 ---

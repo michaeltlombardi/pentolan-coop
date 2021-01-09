@@ -1,5 +1,6 @@
 ---
 title: Resource Decks
+description: Determining whether or not resources are expended
 type: chapter
 weight: 30
 ---

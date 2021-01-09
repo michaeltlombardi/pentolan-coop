@@ -1,5 +1,6 @@
 ---
 title: Relationships
+description: The ties that bind characters to the city and their communities
 type: chapter
 weight: 70
 ---

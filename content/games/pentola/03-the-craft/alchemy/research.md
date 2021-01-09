@@ -1,5 +1,6 @@
 ---
 title: Researching Formulae
+description: The process by which characters create new alchemical items
 type: chapter
 weight: 30
 ---
@@ -12,7 +13,7 @@ Even if the ingredients are the same, the difference will be in the specific rat
 
 Each dweomer researched requires making one or more experiments, each of which require:
 
-1. A [form]() for the formula to take---pills, wafers, salves, potions, powders, incense---what makes a good and usable incense does not (necessarily) make a good potion.
+1. A [form](#forms) for the formula to take---pills, wafers, salves, potions, powders, incense---what makes a good and usable incense does not (necessarily) make a good potion.
 1. The appropriate ingredients---each formula requires the combination of two or more [ingredients]() whose [qualities]() matches the effect being created.
 1. A full day's day's work to prepare and attempt without distractions
 1. A successful hard alchemy test

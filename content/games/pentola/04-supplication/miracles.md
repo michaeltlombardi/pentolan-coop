@@ -1,5 +1,6 @@
 ---
 title: Miracles
+description: A list of the unique magics of supplication work and how they are aquired and performed
 type: chapter
 weight: 30
 ---

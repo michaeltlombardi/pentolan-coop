@@ -1,5 +1,6 @@
 ---
-title: Overview
+title: Introduction
+description: An introduction to supplication and how it works
 type: chapter
 weight: 10
 ---

@@ -1,5 +1,6 @@
 ---
 title: Time
+description: How time is mechanized
 type: chapter
 weight: 40
 ---

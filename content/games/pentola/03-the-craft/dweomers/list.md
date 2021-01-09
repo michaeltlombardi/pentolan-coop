@@ -1,5 +1,6 @@
 ---
 title: Dweomers & Traits
+description: The routine dweomers known in Pentola and the traits that define them
 type: chapter
 weight: 40
 ---

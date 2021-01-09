@@ -1,13 +1,12 @@
 ---
 title: Injury & Recovery
+description: Dealing with the outcomes of violent and/or dangerous action
 type: chapter
 weight: 20
 ---
 
 When a character takes damage that their armor or other effects can't soak, they lose {{< icon blood >}}.
 When a character reaches 0 {{< icon blood >}}, all additional damage inflicts major wounds.
-
-<!-- TODO: Add an option for not-dying at 0 and one less brutal? -->
 
 ## Major Wounds
 

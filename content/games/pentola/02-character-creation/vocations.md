@@ -1,5 +1,6 @@
 ---
 title: Vocations
+description: A character's calling in life, which gives them broad competencies
 type: chapter
 weight: 50
 ---

@@ -1,5 +1,6 @@
 ---
 title: Distance
+description: How distance is abstracted
 type: chapter
 weight: 50
 ---

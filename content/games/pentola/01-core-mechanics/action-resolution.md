@@ -1,5 +1,6 @@
 ---
 title: Action Resolution
+description: How you determine if a character succeeds or fails at something
 type: chapter
 weight: 10
 ---

@@ -1,5 +1,6 @@
 ---
 title: Applying Dweomers
+description: How Pentolans turn thought and intent into magical effect
 type: chapter
 weight: 20
 ---

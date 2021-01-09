@@ -1,5 +1,6 @@
 ---
 title: Calculating Attributes
+description: Derived scores that determine a character's propensity for violence and magic
 type: chapter
 weight: 20
 ---

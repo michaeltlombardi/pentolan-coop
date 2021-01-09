@@ -1,11 +1,8 @@
-+++
-title = "Equipment"
-weight = 10
-chapter = true
-+++
+---
+title: Equipment
+description: Lists of different equipment available in Pentola
+weight: 10
+type: chapter
+---
 
-# Equipment
-
-- [Armor](equipment/armor)
-- [Weapons & Shields](equipment/weapons-and-shields)
-- [Magic Items](equipment/magic-items)
+<!-- Left intentionally blank -->
