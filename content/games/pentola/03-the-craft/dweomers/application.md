@@ -37,7 +37,7 @@ The significant numeral of the character's crafting skill rating or memorized dw
 |     +10     |     🌑    | 5 Years    | 1000 Leagues | 1000 Cubic Yards, etc.
 
 {{< detail example "Dweomer Complexity" >}}
-Alessia has a {{< icon flax >}} of 30 and a Crafting skill of 65.
+Alessia has a **Flax** of 30 and a Crafting skill of 65.
 If applying as a ritual, she can handle a complexity of up to 6 total across magnitude, duration, range, and volume.
 
 Alessia could choose to apply a dweomer with a magnitude of 4 (+3 complexity), a Duration of 1 minute (default), a range of nearby (+1), and a volume of an object (+1) for a total of 5 complexity.

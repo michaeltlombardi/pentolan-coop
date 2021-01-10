@@ -35,17 +35,17 @@ it's knowledge of [_The Craft_](/03-the-craft), which is what Pentolans call the
 Everyone in Pentola has some functional familiarity with magic.
 
 {{< detail example "Skills and Vocations in Action" >}}
-Tick-Tock Tarasi ({{< icon iron >}}36 {{< icon flax >}}46 {{< icon bone >}}26 ) has _Clockmaker_ as a vocation (rating 30), as well as the skills Crafting (66), Literacy [Pentolan] (56), Researching (40), Alchemy (26), Engineering (26), Demonology (26), Dodge (26), Wingsuiting (26) and Appraisal (26).
+Tick-Tock Tarasi (**Iron** 36 **Flax** 46 **Bone** 26) has _Clockmaker_ as a vocation (rating 30), as well as the skills Crafting (66), Literacy [Pentolan] (56), Researching (40), Alchemy (26), Engineering (26), Demonology (26), Dodge (26), Wingsuiting (26) and Appraisal (26).
 
 **Scenario 1:** Shooting a Crossbow
 
-None of Tarasi's skills or her vocation apply to this action, so she needs to roll under her relevant characteristic; in this case, {{< icon bone >}}, on a dz%.
+None of Tarasi's skills or her vocation apply to this action, so she needs to roll under her relevant characteristic; in this case, **Bone** on a dz%.
 She can only succeed on a roll under 26.
 
 **Scenario 2:** Picking a Lock
 
 In this case, Tarasi has no skills that apply to this action, but her vocation arguably does—so she can add count it towards this test.
-The referee calls for a {{< icon flax >}} test, so Tarasi has a goal of 46.
+The referee calls for a **Flax** test, so Tarasi has a goal of 46.
 Because of her vocation, however, she will _also_ succeed on any roll ending in 0, 1, or 2 (except for a 00 which is always a botch)!
 She can also critically succeed on a 01 or 02.
 
@@ -53,14 +53,14 @@ She can also critically succeed on a 01 or 02.
 
 In this case, both Tarasi's vocation _and_ her skill Appraisal apply to this action.
 Her vocation has a higher rating (30 vs 26), so she would use her vocation on this test.
-The referee calls for a {{< icon flax >}} test, so Tarasi has a goal of 46.
+The referee calls for a **Flax** test, so Tarasi has a goal of 46.
 Because of her vocation, however, she will _also_ succeed on any roll ending in 0, 1, or 2 (except for a 00 which is always a botch)!
 She can also critically succeed on a 01 or 02.
 
 **Scenario 4:** Appraising Art
 
 In this case, only Tarasi's Appraisal skill applies to this action.
-The referee calls for a {{< icon flax >}} test, so Tarasi has a goal of 46.
+The referee calls for a **Flax** test, so Tarasi has a goal of 46.
 Because of her skill, however, she will _also_ succeed on any roll ending in 0 or 1 (except for a 00 which is always a botch)!
 She can also critically succeed on a 01.
 

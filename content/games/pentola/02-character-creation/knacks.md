@@ -116,13 +116,13 @@ Failure indicates that they simply couldn't control it.
 
 {{< detail example "Exercising a Knack with 0 Tephra" >}}
 Taryn chooses to exercise their _Polished Scent of Sealing Harmony_ knack in response to escalating tensions between two factions in a last ditch attempt to prevent violence from breaking out.
-They have the knack at a magnitude 5 and choose to exercise it as such, but have no {{< icon tephra >}} left.
+They have the knack at a magnitude 5 and choose to exercise it as such, but have no **Tephra** left.
 
-Taryn taps into their life force, decreasing their current {{< icon blood >}} by 5. They then need to pass an {{< icon iron >}} test to see if they're able to force their knack to function; they succeed!
+Taryn taps into their life force, decreasing their current **Blood** by 5. They then need to pass an **Iron** test to see if they're able to force their knack to function; they succeed!
 
-They then make an opposed test against everyone nearby, testing their {{< icon iron >}} with a significant numeral **5** higher than normal (so if their goal was 43 initially, it is instead 93).
+They then make an opposed test against everyone nearby, testing their **Iron** with a significant numeral **5** higher than normal (so if their goal was 43 initially, it is instead 93).
 
-**Note:** If Taryn had failed their {{< icon iron>}} test to exercise the knack they would _still_ have had their current {{< icon blood >}} decrease by 5.
+**Note:** If Taryn had failed their **Iron** test to exercise the knack they would _still_ have had their current **Blood** decrease by 5.
 {{< /detail >}}
 
 <!-- TODO: figure out phrasing for improving and gaining knacks; probably need an expanded chapter on this ...
