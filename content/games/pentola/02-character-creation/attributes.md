@@ -28,6 +28,6 @@ Since you're _only_ adding the **significant numeral** for each characteristic, 
 {{< detail example "Determining Attributes for Taryn" >}}
 Having rolled the characteristics for Taryn we can calculate their attributes:
 
-{{< icon blood >}} With {{< icon bone >}}<strong>4</strong>9 and {{< icon iron >}} <strong>2</strong>9, Taryn's Blood is <strong>6</strong>.<br />
-{{< icon tephra >}} With {{< icon flax >}} <strong>3</strong>9 and {{< icon iron >}} <strong>2</strong>9, Taryn's Tephra is <strong>5</strong>.
+- **Blood:** With **Bone** `4` and **Iron**  `2`, Taryn's Blood is `6` 
+- **Tephra:** With **Flax**  `3` and **Iron**  `2`, Taryn's Tephra is `5`
 {{< /detail >}}

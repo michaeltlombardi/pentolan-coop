@@ -84,7 +84,7 @@ During downtime between adventures the players may improve their characters.
 For every three month period of dedicated practice or research a character may choose one from the following list:
 
 - Modify the rating a skill, reputation, relationship, vocation, or memorized dweomer by 6
-- Increase the rating of your {{< icon iron >}}, {{< icon flax >}}, or {{< icon bone >}} by 3 to a maximum of 90
+- Increase the rating of your **Iron**, **Flax**, or **Bone** by 3 to a maximum of 90
 - Acquire or improve a knack by one magnitude
 - Acquire or improve a miracle by one magnitude
 - Make an investment in your wealth, spending cards from your resource deck to give you a chance to go up a wealth level; the total value of the spent cards indicates your chances on a dz%, though the check and result are not made until the end of the next downtime
