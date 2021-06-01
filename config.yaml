@@ -1,47 +1,52 @@
-baseURL: 'https://pentolan-coop.netlify.app/'
+baseURL: https://pentolan-coop.netlify.app/
 languageCode: en-us
 title: Pentolan Cooperative
 # theme: Platen
 googleAnalytics: UA-123-45
 year: 2020
 copyrightHolder: The Pentolan Cooperative
+# Itch.io settings: uncomment to build for itch
+# uglyURLs: true
+# canonifyURLs: false
+# disablePathToLower: true
+# relativeURLs: true
 module:
-  # replacements: 'github.com/platenio/hugo-platen -> C:\code\platenio\hugo-platen'
+  # replacements: 'github.com/platenio/hugo-platen -> C:\code\platen\hugo-platen'
   imports:
     - path: github.com/platenio/hugo-platen
 paginatePath: blog
 params:
   description: City of Shards
-  copyright:   '2020, The Pentolan Coop'
+  copyright: "2021, The Pentolan Coop"
   warnOnMissingAltText: false
   scss:
     # Default site variables
     site:
-      font-stack:          'Arial, sans-serif'
-      primary-color:       '#6F468F'
-      primary-color-text:  '#FFF'
-      primary-color-light: '#C4ABD8'
-      primary-color-hover: '#A264D2'
+      font-stack: "Arial, sans-serif"
+      primary-color: "#6F468F"
+      primary-color-text: "#FFF"
+      primary-color-light: "#C4ABD8"
+      primary-color-hover: "#A264D2"
       # secondary-color:     'green'
       # tertiary-color:      'orange'
       # desktop-width:       '768px'
       # site-nav-height:     '4em'
     # Default Game variables (these can be overwritten per-game)
     # games:
-      # font-stack: foo
-      # primary-color: '#6F468F'
-      # primary-color-text: '#FFF'
-      # primary-color-light: '#C4ABD8'
-      # primary-color-hover: '#A264D2'
-      # secondary-color:
-      # secondary-color-text:
-      # secondary-color-light:
-      # secondary-color-hover:
-      # tertiary-color:
-      # tertiary-color-text:
-      # tertiary-color-light:
-      # tertiary-color-hover:
-      # nav-height: 4em
+    # font-stack: foo
+    # primary-color: '#6F468F'
+    # primary-color-text: '#FFF'
+    # primary-color-light: '#C4ABD8'
+    # primary-color-hover: '#A264D2'
+    # secondary-color:
+    # secondary-color-text:
+    # secondary-color-light:
+    # secondary-color-hover:
+    # tertiary-color:
+    # tertiary-color-text:
+    # tertiary-color-light:
+    # tertiary-color-hover:
+    # nav-height: 4em
 menu:
   main:
     - name: About
