@@ -14,3 +14,5 @@ github.com/platenio/hugo-platen v0.0.0-20210106172926-e467d27f4d4a h1:l+7N6vdaeb
 github.com/platenio/hugo-platen v0.0.0-20210106172926-e467d27f4d4a/go.mod h1:QPUdaSQ/C+k0/L83AtZYO6NhCpwz5kzpvvT6pyM5k28=
 github.com/platenio/hugo-platen v0.0.0-20210109201444-35cac7bdddd1 h1:IXi97nZ5TtoeBux4eOCG7FRIumMC1Xdkj+MbTiUesmM=
 github.com/platenio/hugo-platen v0.0.0-20210109201444-35cac7bdddd1/go.mod h1:QPUdaSQ/C+k0/L83AtZYO6NhCpwz5kzpvvT6pyM5k28=
+github.com/platenio/hugo-platen v0.0.0-20210601020441-7769cf86d61b h1:YlRLLyKbNZusfZASqqVcQbDkPz2EhmUGH8m9rQfVKdE=
+github.com/platenio/hugo-platen v0.0.0-20210601020441-7769cf86d61b/go.mod h1:QPUdaSQ/C+k0/L83AtZYO6NhCpwz5kzpvvT6pyM5k28=
